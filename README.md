@@ -1,2 +1,2 @@
-# Android-Projects
-These are the projects that I did 
+# Android-Projects-Tensorflow.
+This is the project in which using tensorflow model in Android, I implemented image recognition. 
